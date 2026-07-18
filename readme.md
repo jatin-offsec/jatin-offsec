@@ -1,18 +1,147 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>- Digital Forensics Platform<br>- Network Traffic Analysis<br>- Penetration Testing Projects<br><br>👯 I’m looking to collaborate on<br>- Open Source Cyber Security Projects<br>- Digital Forensics Tools<br>- Python Automation Scripts<br><br>🤝 I’m looking for help with<br>- Malware Analysis<br>- Reverse Engineering<br>- Threat Hunting<br><br>🌱 I’m currently learning<br>- Advanced Penetration Testing<br>- Active Directory Security<br>- Red Teaming<br>- Cloud Security (AWS)<br><br>💬 Ask me about<br>- Kali Linux<br>- Networking<br>- Digital Forensics<br>- TryHackMe Labs<br>- Python for Cyber Security<br><br>⚡ Fun fact<br>- I enjoy breaking systems ethically to learn how to secure them.
+# 💫 About Me
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00D1FF&center=true&vCenter=true&width=900&lines=I'M+JATIN+KUMAR;Cybersecurity+Enthusiast;Digital+Forensics+Engineer;Penetration+Tester;Python+Developer;Building+Security+Tools;Linux+%7C+Networking+%7C+Threat+Detection" alt="Typing SVG"/>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@jatin.3641) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/jatinkumar012) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Jatin Kumar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jatink2130@gmail.com) 
+I am a **Cyber Security Enthusiast** passionate about building practical security solutions and exploring modern attack and defense techniques.
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Jatin kumar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Jatin kumar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Jatin kumar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+Currently, I focus on **Digital Forensics, Penetration Testing, Network Security, Threat Detection, and Python Automation**. I enjoy solving real-world security problems by developing tools, performing security assessments, and continuously improving my technical skills.
+
+## 🚀 What I'm Working On
+
+- 🔍 Digital Forensics Platform
+- 🛡️ Network Traffic Analysis
+- ⚡ Penetration Testing Projects
+- 🐍 Python Security Automation
+- 📊 Log Analysis & Threat Detection
+
+## 🌱 Currently Learning
+
+- Active Directory Security
+- Red Team Operations
+- Malware Analysis
+- Cloud Security (AWS)
+- Threat Hunting
+- Reverse Engineering
+
+## 🤝 Looking to Collaborate On
+
+- Open Source Cyber Security Projects
+- Digital Forensics Tools
+- Python Security Scripts
+- Network Security Research
+
+## 💬 Ask Me About
+
+- Kali Linux
+- Penetration Testing
+- Digital Forensics
+- Networking
+- Python Automation
+- TryHackMe Labs
+
+## ⚡ Fun Fact
+
+> I enjoy breaking systems ethically to understand how to secure them better.
 
 ---
-[![](https://komarev.com/ghpvc/?username=Jatin kumar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jatin-kumar-aa905135a/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/jatin-offsec)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jatink2130@gmail.com)
+
+---
+
+# 💻 Tech Stack
+
+### Programming
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+
+### Web
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+
+### Operating Systems
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows)
+
+### Cyber Security
+
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark)
+![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+
+### Digital Forensics
+
+- Autopsy
+- Volatility
+- FTK Imager
+- ExifTool
+- Registry Explorer
+- TShark
+- NetworkMiner
+
+---
+
+# 📂 Featured Projects
+
+## 🔥 Digital Forensics Platform
+
+A comprehensive forensic investigation platform integrating multiple forensic tools for:
+
+- Disk Analysis
+- Memory Analysis
+- Network Traffic Analysis
+- Log Analysis
+- Timeline Generation
+- Evidence Management
+
+---
+
+## 🛡️ Recon Framework
+
+Automated reconnaissance toolkit using:
+
+- Subfinder
+- Amass
+- Httpx
+- Nmap
+- WhatWeb
+- Gobuster
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=jatin-offsec&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=jatin-offsec&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jatin-offsec&layout=compact&theme=tokyonight)
+
+---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=jatin-offsec&theme=tokyonight&margin-w=8)
+
+---
+
+## 📈 Profile Views
+
+![](https://komarev.com/ghpvc/?username=jatin-offsec&color=blueviolet&style=flat-square)
+
+---
+
+> **"Security is not a product, but a process." — Bruce Schneier**
