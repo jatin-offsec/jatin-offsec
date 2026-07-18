@@ -1,7 +1,7 @@
 # 💫 About Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00D1FF&center=true&vCenter=true&width=900&lines=I'M+JATIN+KUMAR;Cybersecurity+Enthusiast;Digital+Forensics+Engineer;Penetration+Tester;Python+Developer;Building+Security+Tools;Linux+%7C+Networking+%7C+Threat+Detection" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00D1FF&center=true&vCenter=true&width=900&lines=I'M+JATIN+KUMAR;Digital+Forensics+Engineer;Building+Security+Tools;Linux+%7C+Networking+%7C+Threat+Detection" alt="Typing SVG" />
 </p>
 
 I am a **Cyber Security Enthusiast** passionate about building secure systems, automating security workflows, and performing digital forensic investigations.
